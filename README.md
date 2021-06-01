@@ -18,7 +18,7 @@
 ----------------------------------
 
 ## day 2 ##
-## may 30 ##
+## may 31 ##
 
  >>>>> GAMES
        > chess
@@ -33,6 +33,26 @@
        >5 sums
 
 >>>>>> YOUTUBE VIDEO(python basics)
+
+----------------------------------
+
+## day 3##
+## june 1 ##
+
+ >>>>> GAMES
+       > chess
+
+>>>>>> CODING
+       >5 problems in skill rack
+       >1 hackerrank daily challenge
+
+>>>>>>  TYPING
+
+>>>>>>  APTITUDE
+       >5 sums
+
+>>>>>> YOUTUBE VIDEO(python basics)
+>>>>>> NEWSPAPER  READING
 
 ----------------------------------
 
