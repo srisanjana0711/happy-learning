@@ -57,4 +57,25 @@
 ----------------------------------
 
 
+## day 4##
+## june 7 ##
+
+ >>>>> GAMES
+       > chess
+
+>>>>>> CODING
+       >15 problems in skill rack
+       >1 hackerrank daily challenge
+
+>>>>>>  TYPING
+
+>>>>>>  APTITUDE
+       >1 sums
+
+>>>>>> YOUTUBE VIDEO(python basics)
+>>>>>> NEWSPAPER  READING
+
+----------------------------------
+
+
 
