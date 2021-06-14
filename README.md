@@ -77,5 +77,36 @@
 
 ----------------------------------
 
+day 5##
+## june 13 ##
 
+ >>>>> GAMES
+       > chess
+
+>>>>>> CODING
+       >15 problems in skill rack
+
+>>>>>>  TYPING
+
+>>>>>>  APTITUDE
+       >1 sums
+
+>>>>>> NEWSPAPER  READING
+
+## DAY 6 ##
+# june 14 ##
+
+>>>>>> CODING
+       >12 problems in skill rack
+
+>>>>>>  TYPING
+
+>>>>>>  APTITUDE
+       >1 sums
+
+>>>>>> NEWSPAPER  READING(hindu editorial)
+>>>>>>READING
+      ncert
+>>>>>>YOUTUBE 
+       informative topics
 
